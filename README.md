@@ -16,4 +16,3 @@ Task: Use rawdata as input and derive
 2. Datewise number of picking and placing activity done.
 Sample output shared in output sheet.
 Task 4: Basic Streamlit/Flask
-Task: Represent output of above 3 tasks either in streamlit or flask page.
